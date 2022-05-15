@@ -1,25 +1,21 @@
+import Head from "next/head";
+
 import { Card } from "../components/Card";
 import { Footer } from "../components/Footer";
+import { Hero } from "../components/Hero";
 import { Navbar } from "../components/Navbar";
 import { SaveParagraph } from "../components/SaveParagraph";
 
 const index = () => {
   return (
     <>
+      <Head>
+        <title>HACK THE OCEAN | Nombre del equipo</title>
+      </Head>
+
       <Navbar />
 
-      {/* Hero */}
-      <div className="h-screen bg-gradient-to-b from-cyan-200 to-primary-400">
-        <div className="h-screen px-6 flex flex-col space-y-12 items-center justify-center ">
-          <h1 className="text-center text-4xl font-bold text-white">
-            Peleemos contra la <span className="text-[#02189A]">Extinción</span>
-          </h1>
-
-          <button className="py-3 px-6 bg-white text-[#02189A] font-semibold rounded-md">
-            Descubre más
-          </button>
-        </div>
-      </div>
+      <Hero />
 
       {/* Descubre como salvarlos Section */}
       <div className=" bg-gradient-to-b from-primary-400 to-primary-500 rounded-br-[4rem] pb-10">
