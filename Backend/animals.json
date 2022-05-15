@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Vaquita Marina",
+        "nombre_cientifico": "Phocoena sinus",
+        "descripcion": "La vaquita, o marsopa común del Golfo de California, es un mamífero marino endémico del Golfo de California y es la especie de cetáceo en mayor peligro de extinción en el mundo. Las vaquitas son las más pequeñas de las siete marsopas conocidas. Las hembras crecen hasta 140 cm (4.6 pies) de largo, mientras que los machos son un poco más pequeños, hasta 135 cm (4.4 pies). Las aletas pectorales de la vaquita son proporcionalmente más grandes, y su aleta dorsal es más alta y más curvada que en otras marsopas",
+        "imagen": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2021/12/23/61c441e01cd92.jpeg",
+        "estatus": "En peligro de extinción",
+        "recomendaciones": "Para detener el tráfico de totoaba y salvar a la vaquita, el gobierno mexicano debe intervenir inmediatamente para aplicar la ley y eliminar las redes de enmalle en el hábitat de la vaquita. Artes de pesca seguras deben ser desarrolladas e implementadas para proteger la vaquita. Sistemas de monitoreo GPS deben ser instalados en todas las embarcaciones pesqueras en el Alto Golfo de California. Los gobiernos de México, China y Estados Unidos deben dedicar recursos sustanciales para una investigación exhaustiva del tráfico ilegal de totoaba."
+    },
+    {
+        "nombre": "Tortuga Laud",
+        "nombre_cientifico": "Dermochelys coriacea",
+        "descripcion": "Tan antigua como los dinosaurios, la tortuga laúd se encuentra en peligro de extinción. La tortuga laúd es el reptil más pesado del planeta y la más grande de todas las tortugas vivientes, creciendo hasta 2 metros de largo y pesando hasta 700 kg. Se puede distinguir fácilmente de otras tortugas marinas por la falta de un caparazón óseo o carapacho; en cambio, está cubierto por piel y carne aceitosa, lo que da lugar al nombre de laúd",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg",
+        "estatus": "En peligro de extinción",
+        "recomendaciones": "Para recuperar la población de tortugas laúd, el gobierno mexicano debe regular los vehículos de motor y eliminar las fuentes de luz artificial cerca de playas importantes de anidación, establecer programas de eliminación de plástico, prohibir el uso de redes de enmalle y anzuelos forma de “J” en áreas marinas cerca de playas importantes de anidación, y mejorar la aplicación de la ley para proteger los nidos de cazadores furtivos y depredadores naturales."
+    },
+    {
+        "nombre": "Lobo mexicano",
+        "nombre_cientifico": "Canis lupus baileyi",
+        "descripcion": "El lobo mexicano es la subespecie más pequeña de lobo gris en América del Norte. Es también uno de los mamíferos más raros y en mayor en peligro de extinción en el continente, con sólo pocas docenas sobreviviendo en vida silvestre después de un programa de reintroducción.",
+        "imagen": "https://static.nationalgeographic.es/files/styles/image_3200/public/Lobo%20mexicano.jpg?w=1600&h=1070",
+        "estatus": "Extinto en estado silvestre",
+        "recomendaciones": "Algunos lobos reintroducidos han sido perseguidos y asesinados. Para recuperar el lobo gris mexicano, el gobierno de México tiene que proteger activamente los sitios de reintroducción. Para una reintroducción exitosa de la especie, los funcionarios del gobierno necesitan proteger el hábitat de los animales y asegurar la conservación de un ecosistema sano y bien conectado. Los sitios de reintroducción deben ser elegidos en base a la distribución histórica del lobo y las comunidades cercanas o en las zonas de reintroducción deben participar en las acciones de conservación."
+    },
+    {
+        "nombre": "Ajolote Mexicano",
+        "nombre_cientifico": "Ambystoma mexicanum",
+        "descripcion": "El ajolote mexicano es una salamandra larga, oscura, cilíndrica, midiendo hasta 30 cm (12 pulgadas) de largo. Esta criatura de distintivo aspecto y en peligro de extinción tiene branquias grandes, que se extienden desde la parte posterior de su cabeza ancha.",
+        "imagen": "https://escribiendocontintanegra.com/wp-content/uploads/2022/02/dia-del-ajolote-vibetv-696x394-1.jpg",
+        "estatus": "En peligro de extinción",
+        "recomendaciones": "El gobierno local y federal debe desarrollar programas de reintroducción con presupuesto que considere la restauración del hábitat y la creación de refugios para garantizar la supervivencia de esta especie. Los humedales de Xochimilco deben ser desinfectados y restaurados, la fauna exótica erradicada, y la calidad del agua procedente de los sistemas de alcantarillado también deben ser mejorada."
+    },
+    {
+        "nombre": "Guacamaya Roja",
+        "nombre_cientifico": "Ara macao macao",
+        "descripcion": "Las guacamayas rojas son aves se distinguen por su colorido plumaje, con cuerpos de color rojo escarlata, plumas de las alas amarillas y azul claro las plumas de la cola.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ara_Macao_%28Yarinacocha%2C_Pucallpa%29.jpg",
+        "estatus": "En peligro de extinción",
+        "recomendaciones": "El gobierno mexicano debe priorizar Programa para la Conservación de Especies en Riesgo (PROCER), que está infrautilizado y con poco presupuesto, y debe detener la tala en la selva tropical para proteger el hábitat de la guacamaya roja para que los programas de reintroducción puedan tener éxito."
+    },
+    {
+        "nombre": "Mariposa Monarca",
+        "nombre_cientifico": "Danaus plexippus",
+        "descripcion": "La monarca es tal vez la mariposa más conocida del mundo, pero ese estatus no le ha garantizado evitar las profundas amenazas para su supervivencia. La gran migración de esta mariposa desde Estados Unidos al sur de Canadá a México y California en el invierno, es uno de los más espectaculares y extraordinarios espectáculos naturales.",
+        "imagen": "https://static.nationalgeographic.es/files/styles/image_3200/public/2273.600x450.jpg?w=1900&h=1425",
+        "estatus": "Protección especial",
+        "recomendaciones": "La tala ilegal de madera debe ser detenida mediante la vigilancia y la aplicación efectiva de la ley. El uso de plantas genéticamente modificadas que resisten plaguicidas debe ser detenido. Si queremos salvar esta querida maravilla naranja y negra para las generaciones futuras, acciones serias son necesarias por parte de México y los Estados Unidos para garantizar que el hábitat de la monarca se conserve en cada lado de la frontera."
+    },
+    {
+        "nombre": "Jaguar",
+        "nombre_cientifico": "Panthera onca",
+        "descripcion": "Conocido como “Océlotl” en náhuatl y “balam” en maya, el jaguar ha sido asociado en las diversas culturas de México con el valor, poder, la noche, el inframundo, la fertilidad de la tierra y la muerte.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg",
+        "estatus": "En peligro de extinción",
+        "recomendaciones": "Conocido como “Océlotl” en náhuatl y “balam” en maya, el jaguar ha sido asociado en las diversas culturas de México con el valor, poder, la noche, el inframundo, la fertilidad de la tierra y la muerte."
+    }
+]
