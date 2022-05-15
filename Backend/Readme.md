@@ -28,9 +28,9 @@ Ejecutar servidor de express con:
 
 ## Accesar endpoints  
 Ya sea usando [postman](https://www.postman.com), [hoppscotch](https://hoppscotch.io/es/) o tu navegador web, accede a los siguientes endpoints (todos son GET, reemplazar "parametro" por el dato a filtrar):  
-- http://localhost:3000/v1/animals/name/:parametro:
-  Se filtra por nombre comun, trae todos los registros filtrados. Tipo de dato: String
-- http://localhost:3000/v1/animals/scientificName/:parametro:
-  Se filtra por nombre cientifico, trae todos los registros filtrados. Tipo de dato: String
-- http://localhost:3000/v1/animals/status/:parametro:
+- http://localhost:3000/v1/animals/name/:parametro:  
+  Se filtra por nombre comun, trae todos los registros filtrados. Tipo de dato: String  
+- http://localhost:3000/v1/animals/scientificName/:parametro:  
+  Se filtra por nombre cientifico, trae todos los registros filtrados. Tipo de dato: String  
+- http://localhost:3000/v1/animals/status/:parametro:  
   Se filtra por el estatus, trae todos los registros filtrados. Tipo de dato: String
