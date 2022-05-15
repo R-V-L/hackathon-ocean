@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Vaquita Marina",
+        "nombre_cientifico": "Phocoena sinus",
+        "descripcion": "La vaquita, o marsopa común del Golfo de California, es un mamífero marino endémico del Golfo de California y es la especie de cetáceo en mayor peligro de extinción en el mundo. Las vaquitas son las más pequeñas de las siete marsopas conocidas. Las hembras crecen hasta 140 cm (4.6 pies) de largo, mientras que los machos son un poco más pequeños, hasta 135 cm (4.4 pies). Las aletas pectorales de la vaquita son proporcionalmente más grandes, y su aleta dorsal es más alta y más curvada que en otras marsopas",
+        "imagen": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2021/12/23/61c441e01cd92.jpeg",
+        "estatus": "En peligro de extinción",
+        "recomendaciones": "Para detener el tráfico de totoaba y salvar a la vaquita, el gobierno mexicano debe intervenir inmediatamente para aplicar la ley y eliminar las redes de enmalle en el hábitat de la vaquita. Artes de pesca seguras deben ser desarrolladas e implementadas para proteger la vaquita. Sistemas de monitoreo GPS deben ser instalados en todas las embarcaciones pesqueras en el Alto Golfo de California. Los gobiernos de México, China y Estados Unidos deben dedicar recursos sustanciales para una investigación exhaustiva del tráfico ilegal de totoaba."
+    },
+    {
+        "nombre": "Tortuga Laud",
+        "nombre_cientifico": "Dermochelys coriacea",
+        "descripcion": "Tan antigua como los dinosaurios, la tortuga laúd se encuentra en peligro de extinción. La tortuga laúd es el reptil más pesado del planeta y la más grande de todas las tortugas vivientes, creciendo hasta 2 metros de largo y pesando hasta 700 kg. Se puede distinguir fácilmente de otras tortugas marinas por la falta de un caparazón óseo o carapacho; en cambio, está cubierto por piel y carne aceitosa, lo que da lugar al nombre de laúd",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg",
+        "estatus": "En peligro de extinción",
+        "recomendaciones": "Para recuperar la población de tortugas laúd, el gobierno mexicano debe regular los vehículos de motor y eliminar las fuentes de luz artificial cerca de playas importantes de anidación, establecer programas de eliminación de plástico, prohibir el uso de redes de enmalle y anzuelos forma de “J” en áreas marinas cerca de playas importantes de anidación, y mejorar la aplicación de la ley para proteger los nidos de cazadores furtivos y depredadores naturales."
+    }
+]
