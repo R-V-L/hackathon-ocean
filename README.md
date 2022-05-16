@@ -1,7 +1,7 @@
 
 # Hack the ocean
 
-"titulo" surgió bajo la premisa del hackathon **"Hack the ocean"** impulsado por [Inovacción virtual](https://www.instagram.com/innovaccionvirtual/?hl=es); usando las tecnologías vistas durante nuestra travesía en LaunchX, se desarrolló una aplicación full stack, que ayude con los principales problemas que enfrenta en océano. 
+"Ocean Savers" surgió bajo la premisa del hackathon **"Hack the ocean"** impulsado por [Inovacción virtual](https://www.instagram.com/innovaccionvirtual/?hl=es); usando las tecnologías vistas durante nuestra travesía en LaunchX, se desarrolló una aplicación full stack, que ayude con los principales problemas que enfrenta en océano. 
 
 ## Desarrollo de la solución
 
