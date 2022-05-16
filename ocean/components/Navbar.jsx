@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const Navbar = () => {
   return (
-    <header className="py-1 px-6 bg-black text-white bg-opacity-60 backdrop-blur	fixed min-w-full    ">
+    <header className="py-1 px-6 bg-black text-white bg-opacity-60 backdrop-blur fixed min-w-full z-50 ">
       <div className="container flex justify-between h-16 mx-auto">
         <Link href="/">
           <a className="flex items-center p-2">

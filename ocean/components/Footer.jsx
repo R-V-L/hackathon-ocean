@@ -3,7 +3,7 @@ import Link from "next/link";
 export const Footer = () => {
   return (
     <footer>
-      <div className="bg-primary-900 mx-auto flex w-full max-w-7xl flex-col items-center justify-between space-y-6 px-4 pt-10 text-sm text-gray-400 md:flex-row md:items-start md:space-y-0">
+      <div className="bottom-0  bg-primary-900 flex w-full  flex-col items-center justify-between space-y-6 px-4 pt-10 text-sm text-gray-400 md:flex-row md:items-start md:space-y-0">
         <div>
           <div className="flex items-center space-x-4">
             <Link href="/">
@@ -29,7 +29,7 @@ export const Footer = () => {
         </div>
         <div>
           <svg
-             className="w-auto h-44  "
+             className="w-auto h-44 "
             viewBox="0 0 375 186"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"

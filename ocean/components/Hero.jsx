@@ -5,7 +5,7 @@ export const Hero = () => {
     <div>
       {/* Hero */}
       <div className="h-screen bg-gradient-to-b from-cyan-200 to-primary-400">
-        <div className="h-full space-y-14 flex flex-col">
+        <div className="h-full sm:space-y-20 space-y-14 flex flex-col">
           <div className="min-w-screen object-cover">
             <svg
               className="w-auto h-44"
@@ -21,7 +21,7 @@ export const Hero = () => {
           </div>
 
           <div className="flex flex-col items-center justify-center space-y-6">
-            <div className="flex px-4 flex-col ">
+            <div className="flex px-4 flex-col sm:space-y-6">
               <svg
                 className="self-end	"
                 width="100"
